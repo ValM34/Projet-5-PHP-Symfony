@@ -17,7 +17,7 @@
                 <a href="#" class="h-navlink">Articles</a>
             </div>
             <div class="h-navlinks-right">
-                <a href="#" class="h-navlink">Profil</a>
+                <a href="#" class="h-navlink">Profil lmodifié</a>
             </div>  
         </div>  
     </header>
