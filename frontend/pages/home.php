@@ -19,7 +19,7 @@
             <div class="h-navlinks-right">
                 <a href="#" class="h-navlink">Profil</a>
             </div>
-        </div> 
+        </div>  
     </header>
     <section>
 
